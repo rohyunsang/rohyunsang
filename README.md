@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Unity-FFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-FFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 <!--
 **rohyunsang/rohyunsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
