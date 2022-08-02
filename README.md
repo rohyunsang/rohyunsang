@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rohyunsang's github stats](https://github-readme-stats.vercel.app/api?username=rohyunsang&show_icons=true&theme=merko)
+<a href="https://opgc.me/#/users/rohyunsang" target="_blank"><img src="https://api.opgc.me/githubs/users/rohyunsang/tag/?theme=basic" /></a>
