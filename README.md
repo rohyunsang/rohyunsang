@@ -3,4 +3,3 @@
 
 
 <a href="https://opgc.me/#/users/rohyunsang" target="_blank"><img src="https://api.opgc.me/githubs/users/rohyunsang/tag/?theme=basic" /></a>
-<a href="https://opgc.me/#/users/rohyunsang" target="_blank"><img src="https://api.opgc.me/githubs/users/rohyunsang/tag/?theme=basic" /></a>
