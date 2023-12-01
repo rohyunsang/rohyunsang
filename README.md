@@ -7,6 +7,9 @@
 ### BackJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lionhas99)](https://solved.ac/lionhas99)
 
+
+<!--
 ### Programmers
 ![캡처](https://github.com/rohyunsang/rohyunsang/assets/82229769/a8805d21-1712-4c9b-a2b4-1b609dfdf99f)
 
+2023 07 ~    -->
