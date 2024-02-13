@@ -13,3 +13,6 @@
 ![캡처](https://github.com/rohyunsang/rohyunsang/assets/82229769/a8805d21-1712-4c9b-a2b4-1b609dfdf99f)
 
 2023 07 ~    -->
+
+#### Email
+lionhas99@naver.com
