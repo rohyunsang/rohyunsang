@@ -15,5 +15,6 @@
 
 2023 07 ~    -->
 
-#### Email
+#### Contact
+
 lionhas99@naver.com
